@@ -1,0 +1,6 @@
+{
+  "name": "METRO SAATHI - Gujarat Metro Grievance Intelligence",
+  "description": "Offline-first Passenger Grievance Intelligence system for Gujarat Metro. Categorizes Gujarati, Hindi, English, and Gujlish complaints with explainable urgency scoring and department routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
